@@ -1,8 +1,5 @@
 # NLP Chatbot
 
-**Author:** Jonathan Moore  
-**School of Computer Science — December 2024**
-
 An AI chatbot that manages calendar events, answers questions, tells jokes, and engages in natural conversation using core NLP techniques.
 
 ---
